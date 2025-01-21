@@ -2,7 +2,7 @@
 # INTRO
 # INSTALLATION
 - créer son env virtu : `python -m venv .venv` 
-- entrer dans l'env virtu `.venv\Script\activate` ou `source .venv/bin/activate`
+- entrer dans l'env virtu `.venv/Script/activate` ou `source .venv/bin/activate`
 - sortir de l'env virtu : `deactivate`
 ### PREMIERE INSTALLATION (suivre dans l'ordre):
 - Installer les dépendances : `pip install -r requirements.txt`
